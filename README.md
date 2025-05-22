@@ -33,8 +33,8 @@ fraunhofer-diffraction-intensity/
 ### 1. Клонируйте репозиторий
 
 ```bash
-git clone https://github.com/johannschmeissner/fraunhofer-diffraction.git
-cd fraunhofer-diffraction
+git clone https://github.com/johannschmeissner/fraunhofer-diffraction-intensity.git
+cd fraunhofer-diffraction-intensity
 ```
 
 ### 2. Создать и активировать виртуальное окружение (рекомендуется):
