@@ -42,8 +42,6 @@ pip install -r ../requirements.txt
 
 ### 4. Запуск:
 
-## Запуск
-
 ```bash
 python main.py
 ```
